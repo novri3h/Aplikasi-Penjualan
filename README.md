@@ -4,7 +4,7 @@
 <div align="justify">Program penjualan, juga dikenal sebagai perangkat lunak toko atau perangkat lunak point of sale (POS), adalah perangkat lunak yang digunakan oleh bisnis untuk mengelola proses penjualan dan transaksi dengan pelanggan. Program penjualan memiliki beberapa fitur dan fungsi yang berbeda, yang dirancang untuk membantu bisnis dalam berbagai aspek penjualan dan pengelolaan inventaris.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-Penjualan/graphs/commit-activity)
 
